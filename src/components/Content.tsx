@@ -1,6 +1,6 @@
 import AboutMe from "./AboutMe";
 import Experience from "./Experience";
-import Projects from "./Projects";
+// import Projects from "./Projects";
 import Footer from "./Footer";
 
 const Content = () => {
