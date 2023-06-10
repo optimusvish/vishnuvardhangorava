@@ -11,7 +11,7 @@ const Footer = () => {
         >
           Visual Studio Code{" "}
         </a>
-        by yours truly. Built with{" "}
+        and Built with{" "}
         <a
           href="https://react.dev/"
           className="font-medium text-slate-400 hover:text-teal-300 focus-visible:text-teal-300"
