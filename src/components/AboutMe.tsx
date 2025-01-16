@@ -12,10 +12,7 @@ const AboutMe = () => {
       </div>
       <div>
         <p className="mb-4">
-          Hello! I'm Vishnuvardhan Gorava. I am passionate about Web
-          Development. I am a skilled full stack developer and good at database
-          design. I am a quick learner and a team worker that gets the job done.
-        </p>
+          Hello, I'm Vishnuvardhan Gorava – a passionate Full Stack Developer with a strong focus on Web Development and Database Design. I thrive in collaborative environments, quickly adapting to new technologies and challenges. My goal is to deliver high-quality, scalable solutions while working efficiently as part of a team. Let's build something great together!</p>
       </div>
     </section>
   );

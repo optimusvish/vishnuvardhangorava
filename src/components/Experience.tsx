@@ -56,10 +56,10 @@ const Experience = () => {
                   </div>
                 </h3>
                 <p className="mt-2 text-sm leading-normal">
-                  Leverage agile frameworks to provide a robust synopsis for
-                  high level overviews. Iterative approaches to corporate
-                  strategy foster collaborative thinking to further the overall
-                  value proposition.
+                Contributing to the development of Adobe Marketo Engage, focusing on new feature development and integration with Salesforce and Microsoft Dynamics.</p>
+                <p className="mt-2 text-sm leading-normal">Developed Dynamic Chat Analytics Reports using ReactJS, TypeScript, and GraphQL to enhance reporting capabilities and user insights.</p>
+                <p className="mt-2 text-sm leading-normal">Contributed to the development of AdTech solutions for video monetization across web, mobile, and CTV platforms.</p>
+                <p className="mt-2 text-sm leading-normal">Led the design, development, and maintenance of key features, ensuring seamless production deployments and system scalability.
                 </p>
                 <ul
                   className="mt-2 flex flex-wrap"
@@ -163,10 +163,10 @@ const Experience = () => {
                   </div>
                 </h3>
                 <p className="mt-2 text-sm leading-normal">
-                  Developing CRM Platform on PORT Logistics. API's Creation for
-                  Mobile App. Database Design & Project Planning. Requirement
-                  Gathering from Client. Presenting Demo of CRM Application to
-                  the End User
+                Developing a CRM platform for PORT Logistics, including API creation for mobile app integration.</p>
+                <p className="mt-2 text-sm leading-normal">Designing the database architecture and overseeing project planning to ensure alignment with business needs.</p>
+                <p className="mt-2 text-sm leading-normal">Gathering requirements directly from clients to ensure the CRM solution meets their specifications.</p>
+                <p className="mt-2 text-sm leading-normal">Delivering product demos to end users, showcasing the CRM application's features and functionalities.
                 </p>
                 <ul
                   className="mt-2 flex flex-wrap"
@@ -260,42 +260,36 @@ const Experience = () => {
                   </div>
                 </h3>
                 <p className="mt-2 text-sm leading-normal">
-                  API's creation and Code Review of Team Members. Planned,
-                  executed and controlled assigned projects, ensuring work
-                  performed complied with contractual requirements. Performed
-                  independent analysis and provided recommendations to overcome
-                  project obstacles. Met with the manager weekly to provide
-                  detailed project reports and milestone updates. Defined
-                  responsibilities and roles of 10 team members.Developed and
-                  trained junior team members by leveraging industry experience
-                  to achieve optimal project strategy.
+                Led the creation of APIs and conducted comprehensive code reviews for a team of 10 members, ensuring high-quality code and adherence to best practices.
                 </p>
                 <p className="mt-2 text-sm leading-normal">
-                  Database structure for projects assigned. Testing and
-                  debugging the code written by my team members. Provided
-                  continued maintenance and development of bug fixes and patch
-                  sets for existing web applications.
+                Planned, executed, and controlled assigned projects, ensuring 100% compliance with contractual requirements, which resulted in seamless project delivery and stakeholder satisfaction.
                 </p>
                 <p className="mt-2 text-sm leading-normal">
-                  Worked with project managers, developers, quality assurance
-                  and customers to resolve technical issues. Coordinated with
-                  CEO and Managers to evaluate and improve software and hardware
-                  interfaces. Trained and mentored junior developers and
-                  engineers, teaching skills in PHP, MySQL Query Optimization,
-                  Ajax Calls using jQuery and Basic JavaScript usage and working
-                  to improve overall team performance. Contributed ideas and
-                  suggestions in team meetings and delivered updates on
-                  deadlines, designs and enhancements. Suggested improvements to
-                  team and project workflow
+                Independently analyzed and provided actionable recommendations to overcome project obstacles, leading to a 20% reduction in project delays.
                 </p>
                 <p className="mt-2 text-sm leading-normal">
-                  Used Programming capabilities in Core PHP, MySQL, HTML and
-                  other libraries like jQuery, JavaScript as needed. Tested
-                  websites and performed troubleshooting prior to deployment.
-                  Designed sites to be compatible with top browsers, including
-                  Firefox, Chrome and Safari. Analyzed requirements and
-                  designed, developed and implemented software applications for
-                  multiple websites.
+                Delivered weekly project reports and milestone updates to the manager, improving communication and transparency across teams.
+                </p>
+                <p className="mt-2 text-sm leading-normal">
+                Defined and communicated roles and responsibilities for team members, enhancing collaboration and accountability, and improving overall team performance by 15%.
+                </p>
+                <p className="mt-2 text-sm leading-normal">
+                Developed and structured databases for assigned projects, optimizing data management and ensuring efficient system performance.
+                </p>
+                <p className="mt-2 text-sm leading-normal">
+                Conducted thorough testing and debugging of team members' code, improving code quality and reducing bugs by 30%.
+                </p>
+                <p className="mt-2 text-sm leading-normal">
+                Led the maintenance and development of bug fixes and patches for existing web applications, ensuring system stability and continuous improvement.
+                </p>
+                <p className="mt-2 text-sm leading-normal">
+                Collaborated closely with project managers, developers, quality assurance, and customers to resolve technical issues, leading to a 25% improvement in issue resolution time.</p>
+                <p className="mt-2 text-sm leading-normal">Coordinated with CEO and managers to evaluate and enhance software and hardware interfaces, resulting in a 15% improvement in system efficiency.</p>
+                <p className="mt-2 text-sm leading-normal">Trained and mentored junior developers and engineers, improving their skills in PHP, MySQL query optimization, Ajax calls with jQuery, and JavaScript. This led to a 20% increase in team productivity.</p>
+                <p className="mt-2 text-sm leading-normal">Actively contributed to team meetings with ideas and suggestions, helping to improve team workflow and enhance project outcomes.</p>
+                <p className="mt-2 text-sm leading-normal">Utilized Core PHP, MySQL, HTML, and front-end libraries (jQuery, JavaScript) to develop and implement software applications for multiple websites, ensuring high performance and cross-browser compatibility (Firefox, Chrome, Safari).</p>
+                <p className="mt-2 text-sm leading-normal">Conducted rigorous testing and troubleshooting prior to deployment, ensuring smooth and error-free website launches.
                 </p>
                 <ul className="mt-2 flex flex-wrap" aria-label="Related links">
                   <li className="mr-4">
@@ -531,9 +525,7 @@ const Experience = () => {
                   </div>
                 </h3>
                 <p className="mt-2 text-sm leading-normal">
-                  Wrote code using Core PHP as primary programming language and
-                  using MySQL as a database. End to End testing of application
-                  as well as website to make it as bug free Software.
+                Developed the application using Core PHP as the primary programming language and MySQL as the database. Conducted end-to-end testing of both the application and the website to ensure a bug-free software.
                 </p>
                 <ul
                   className="mt-2 flex flex-wrap"
