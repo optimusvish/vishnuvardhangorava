@@ -295,7 +295,7 @@ const Experience = () => {
                   <li className="mr-4">
                     <a
                       className="relative mt-2 inline-flex items-center text-sm font-medium text-slate-300 hover:text-teal-300 focus-visible:text-teal-300"
-                      href="https://www.indianmoney.com/"
+                      href="https://indianmoney.com/"
                       target="_blank"
                       rel="noreferrer"
                     >
