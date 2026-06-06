@@ -40,7 +40,7 @@ const Header = () => {
             <a
               key={item.label}
               href={item.href}
-              target={item.href.startsWith("http") ? "_blank" : undefined}
+              target="_blank"
               rel="noreferrer"
               className="rounded-full bg-teal-400/10 px-4 py-2 text-sm font-medium text-teal-300 transition hover:bg-teal-400/20"
             >

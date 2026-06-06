@@ -16,7 +16,11 @@ const Content = () => {
         </h2>
 
         <div className="rounded border border-slate-800 p-6">
-          <h3 className="text-lg font-semibold text-slate-200">Splash</h3>
+          <h3 className="text-lg font-semibold text-slate-200">
+            <a href="https://splashthat.com" target="_blank" rel="noreferrer">
+              Splash
+            </a>
+          </h3>
 
           <p className="mt-3">
             Event marketing and registration platform helping organizations
