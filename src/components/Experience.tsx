@@ -14,12 +14,70 @@ const Experience = () => {
         <ol className="group/list">
           <li className="mb-12">
             <div className="group relative grid pb-1 transition-all sm:grid-cols-8 sm:gap-8 md:gap-4 lg:hover:!opacity-100 lg:group-hover/list:opacity-50">
+              <div className="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50"></div>
+              <header className="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2">
+                Oct 2025 — Present
+              </header>
+              <div className="z-10 sm:col-span-6">
+                <h3 className="font-medium leading-snug text-slate-200">
+                  <a
+                    className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 group/link text-base"
+                    href="https://www.cvent.com"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <span>
+                      Senior Software Engineer{" · "}
+                      <span className="inline-block">Cvent</span>
+                    </span>
+                  </a>
+                </h3>
+
+                <div className="mt-2">
+                  <span className="rounded-full bg-teal-400/10 px-2 py-1 text-xs font-medium text-teal-300">
+                    CURRENT ROLE
+                  </span>
+                </div>
+                <p className="mt-2 text-sm leading-normal">
+                  Contributing to Splash, Cvent's event marketing and
+                  registration platform, building scalable backend services,
+                  customer-facing features, and platform integrations using
+                  Symfony, React.js, MySQL, and AWS.
+                </p>
+                <div className="mt-4 flex flex-wrap gap-2">
+                  <span className="rounded-full bg-teal-400/10 px-3 py-1 text-xs text-teal-300">
+                    Symfony
+                  </span>
+                  <span className="rounded-full bg-teal-400/10 px-3 py-1 text-xs text-teal-300">
+                    PHP
+                  </span>
+                  <span className="rounded-full bg-teal-400/10 px-3 py-1 text-xs text-teal-300">
+                    React.js
+                  </span>
+                  <span className="rounded-full bg-teal-400/10 px-3 py-1 text-xs text-teal-300">
+                    MySQL
+                  </span>
+                  <span className="rounded-full bg-teal-400/10 px-3 py-1 text-xs text-teal-300">
+                    AWS
+                  </span>
+                  <span className="rounded-full bg-teal-400/10 px-3 py-1 text-xs text-teal-300">
+                    REST APIs
+                  </span>
+                  <span className="rounded-full bg-teal-400/10 px-3 py-1 text-xs text-teal-300">
+                    Microservices
+                  </span>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li className="mb-12">
+            <div className="group relative grid pb-1 transition-all sm:grid-cols-8 sm:gap-8 md:gap-4 lg:hover:!opacity-100 lg:group-hover/list:opacity-50">
               <div className="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg"></div>
               <header
                 className="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2"
                 aria-label="Jan 2022 to Present"
               >
-                Jan 2022 — Present
+                Jan 2022 — Sep 2025
               </header>
               <div className="z-10 sm:col-span-6">
                 <h3 className="font-medium leading-snug text-slate-200">
