@@ -26,7 +26,7 @@ const Header = () => {
           {[
             {
               label: "Resume",
-              href: "/resume.pdf",
+              href: "https://drive.google.com/file/d/1r4m1P6Oipbx3YDm5TO69uGHwwNPPm0m0/view",
             },
             {
               label: "GitHub",
