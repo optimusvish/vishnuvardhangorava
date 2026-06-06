@@ -25,7 +25,7 @@ export default function Projects() {
         {systems.map((s) => (
           <div
             key={s[0]}
-            className="rounded border border-slate-800 p-6 transition hover:border-teal-300/30 hover:bg-slate-800/20"
+            className="rounded border border-slate-800 p-6 transition duration-300 hover:border-teal-300/30 hover:bg-slate-800/20"
           >
             <h3 className="text-slate-200 font-semibold">{s[0]}</h3>
             <p className="mt-3 text-slate-400">{s[1]}</p>

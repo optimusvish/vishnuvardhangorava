@@ -10,7 +10,7 @@ const Header = () => {
         <h2 className="mt-3 text-lg font-medium tracking-tight text-slate-200 sm:text-xl">
           Senior Software Engineer at Cvent
         </h2>
-        <p className="mt-4 max-w-sm leading-normal">
+        <p className="mt-4 max-w-md leading-normal">
           Building scalable business systems.
           <br />
           <br />
@@ -23,30 +23,30 @@ const Header = () => {
           systems, and software architecture.
         </p>
         <div className="mt-8 flex flex-wrap gap-3">
-          <a
-            href="/resume.pdf"
-            className="rounded-full bg-teal-400/10 px-4 py-2 text-sm font-medium text-teal-300 hover:bg-teal-400/20 transition"
-          >
-            Resume
-          </a>
-
-          <a
-            href="https://github.com/optimusvish/"
-            target="_blank"
-            rel="noreferrer"
-            className="rounded-full bg-teal-400/10 px-4 py-2 text-sm font-medium text-teal-300 hover:bg-teal-400/20 transition"
-          >
-            GitHub
-          </a>
-
-          <a
-            href="https://www.linkedin.com/in/vishnuvardhan-gorava-519099125/"
-            target="_blank"
-            rel="noreferrer"
-            className="rounded-full bg-teal-400/10 px-4 py-2 text-sm font-medium text-teal-300 hover:bg-teal-400/20 transition"
-          >
-            LinkedIn
-          </a>
+          {[
+            {
+              label: "Resume",
+              href: "/resume.pdf",
+            },
+            {
+              label: "GitHub",
+              href: "https://github.com/optimusvish/",
+            },
+            {
+              label: "LinkedIn",
+              href: "https://www.linkedin.com/in/vishnuvardhan-gorava-519099125/",
+            },
+          ].map((item) => (
+            <a
+              key={item.label}
+              href={item.href}
+              target={item.href.startsWith("http") ? "_blank" : undefined}
+              rel="noreferrer"
+              className="rounded-full bg-teal-400/10 px-4 py-2 text-sm font-medium text-teal-300 transition hover:bg-teal-400/20"
+            >
+              {item.label}
+            </a>
+          ))}
         </div>
         <nav className="nav hidden lg:block" aria-label="In-page jump links">
           <ul className="mt-16 w-max">
